@@ -4,6 +4,18 @@ title = "Bhurogu reAthenalarm"
 languageCode = "sn"
 theme = "ananke"
 
+uglyURLs = false
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+# -------------------------------
+
 # Author Information (optional)
 [author]
   name = "Athenalarm"
